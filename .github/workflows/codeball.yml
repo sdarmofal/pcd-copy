@@ -18,4 +18,4 @@ jobs:
           labelPullRequestsWhenApproved: "true"
           labelPullRequestsWhenReviewNeeded: "false"
           failJobsWhenReviewNeeded: "false"
-          GITHUB_TOKEN: "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"
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

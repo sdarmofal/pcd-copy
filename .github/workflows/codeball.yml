@@ -18,3 +18,4 @@ jobs:
           labelPullRequestsWhenApproved: "true"
           labelPullRequestsWhenReviewNeeded: "false"
           failJobsWhenReviewNeeded: "false"
+          GITHUB_TOKEN: "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"
